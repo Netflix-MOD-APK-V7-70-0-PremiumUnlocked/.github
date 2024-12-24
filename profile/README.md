@@ -2,7 +2,7 @@
 
 | ![Netflix-mod](https://github.com/user-attachments/assets/086af2d3-e8df-4b51-9803-e9a8ddb3ae9d)| [![download-now](https://github.com/user-attachments/assets/22657e67-9d2d-46af-a41a-5d365d2ddc1f)](https://modhello.com/netflix/)  |
 |:-------------------------------------------------:|-----------------------|
-| Platform: Android 7.0+                      | Version: V7.70.0    |
+| Platform: Android 7.0+                      | Version: V8.141.1    |
 | size: 146.33 Mb                                |  (5/5)⭐️⭐️⭐️⭐️⭐️  |
 | Latest Update: 10/12/2024                      | Category : Entertainment |
 
